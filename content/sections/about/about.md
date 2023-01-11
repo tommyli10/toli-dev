@@ -1,14 +1,35 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/proTask4.png"
+imageAlt: "About taskAI"
+title: "taskAI"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+taskAI is designed to help users boost their productivity by using machine learning to generate personalized task recommendations based on their daily interactions with the app. 
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+With our app, users can easily manage and organize their tasks, and benefit from the power of AI to help them prioritize their work and get more done.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+<strong>Technologies used:</strong>
+<ul>
+    <li>Node.JS</li>
+    <li>React Native</li>
+    <li>Expo</li>
+    <li>GraphQL</li>
+    <li>Apollo</li>
+    <li>NativeBase</li>
+    <li>Jest</li>
+    <li>Python (soon)</li>
+    <li>Jest</li>
+    <li>Redux Toolkit</li>
+</ul>
+<br />
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+<strong>Developers:</strong>
+<div>
+    <a href="https://www.linkedin.com/in/jackie-he/" target="_blank">Jackie He</a>
+    <span>&nbsp;|&nbsp;</span>
+    <a href="https://www.linkedin.com/in/tommyli10" target="_blank">Tommy Li</a>
+    <span>&nbsp;|&nbsp;</span>
+    <a href="https://www.linkedin.com/in/brpham13/" target="_blank">Brian Pham</a>
+    <span>&nbsp;|&nbsp;</span>
+    <a href="https://www.linkedin.com/in/raymondhkim/" target="_blank">Raymond Kim</a>
+</div>
