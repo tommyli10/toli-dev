@@ -7,7 +7,7 @@
 
 <div>
   <h4>Desktop</h4>
- <img style="max-width:400px;" src="https://i.imgur.com/xuBGrlR.png">
+ <img style="max-width:400px;" src="https://i.imgur.com/rCaBesK.png">
 </div>
 
 <div>
