@@ -1,13 +1,13 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
+  "name": "Send me a messgae",
   "email": "tommylidev.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "description": "Need a website or web app? Send me an email or connect me on any of the following social media platforms.",
   "image": {
     "src": "../../images/favicon.png",
     "alt": "Gatsby Logo"
   },
   "socialProfiles": {
-    "from": ["Github"],
+    "from": ["Github", "LinkedIn", "Instagram"],
     "showIcons": true
   }
 }

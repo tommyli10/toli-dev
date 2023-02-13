@@ -1,35 +1,10 @@
 ---
-imageSrc: "../../images/proTask4.png"
-imageAlt: "About taskAI"
-title: "taskAI"
+imageSrc: "../../images/profile.png"
+imageAlt: "About ToLi Development"
+title: "ToLi"
 ---
 
-taskAI is designed to help users boost their productivity by using machine learning to generate personalized task recommendations based on their daily interactions with the app. 
-
-With our app, users can easily manage and organize their tasks, and benefit from the power of AI to help them prioritize their work and get more done.
-
-<strong>Technologies used:</strong>
-<ul>
-    <li>Node.JS</li>
-    <li>React Native</li>
-    <li>Expo</li>
-    <li>GraphQL</li>
-    <li>Apollo</li>
-    <li>NativeBase</li>
-    <li>Jest</li>
-    <li>Python (soon)</li>
-    <li>Jest</li>
-    <li>Redux Toolkit</li>
-</ul>
+My name is Tommy Li, and I bring a unique sets of technical expertise, creative flair, and problem-solving skills to the world of software development. With a background in architecture and building web applications and open-source products for clients, I have the perfect blend of form and function to make your website dreams a reality.
 <br />
-
-<strong>Developers:</strong>
-<div>
-    <a href="https://www.linkedin.com/in/jackie-he/" target="_blank">Jackie He</a>
-    <span>&nbsp;|&nbsp;</span>
-    <a href="https://www.linkedin.com/in/tommyli10" target="_blank">Tommy Li</a>
-    <span>&nbsp;|&nbsp;</span>
-    <a href="https://www.linkedin.com/in/brpham13/" target="_blank">Brian Pham</a>
-    <span>&nbsp;|&nbsp;</span>
-    <a href="https://www.linkedin.com/in/raymondhkim/" target="_blank">Raymond Kim</a>
-</div>
+<br />
+When I'm not coding up a storm or learning new technologies and adding them to my tool bag, I can be found scaling a bouldering wall at my local rock climbing gym or dying in Elden Ring. Other than playing video games and solving challenging problems, my time spent studying in Rome has made cooking Italian dishes a passion of mine.

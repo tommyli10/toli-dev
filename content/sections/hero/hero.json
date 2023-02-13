@@ -1,13 +1,13 @@
 {
-  "title": "Welcome to taskAI",
+  "title": "Hello, I am Tommy!",
   "subtitle": {
-    "prefix": "A productivity app with ",
-    "highlight": "machine learning",
-    "suffix": "."
+    "prefix": "Full stack ",
+    "highlight": "software engineer",
+    "suffix": ""
   },
-    "description": "Design to generate personalized task recommendations by studying your daily interaction with the app.",
+    "description": "Need a website? You've come to the right place. I design and build responsive and SEO-optimized custom web applications and static websites",
   "socialProfiles": {
-    "from": ["Github"],
-    "showIcons": false
+    "from": ["Github", "LinkedIn"],
+    "showIcons": true
   }
 }

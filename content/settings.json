@@ -1,38 +1,39 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://taskai.io/",
-    "title": "taskAI",
-    "titleTemplate": "taskAI",
-    "description": "Design to generate personalized task recommendations by studying your daily interaction with the app.",
-    "author": "ASAPDevs",
+    "siteUrl": "https://toli.dev/",
+    "title": "ToLi",
+    "titleTemplate": "ToLi",
+    "description": "ToLi Web Development",
+    "author": "Tommy Li",
     "avatar": "../content/images/favicon.png",
-    "bio": "taskAI",
+    "bio": "ToLi Development",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/ASAPDevs/taskAI",
+      "github": "https://github.com/tommyli10",
       "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "#",
+      "linkedin": "https://www.linkedin.com/in/tommyli10",
+      "instagram": "https://www.instagram.com/tommyvulpini",
       "app": "#", 
-      "mail": "mailto:mail@konstantin.digital"
+      "mail": "/#contact"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "taskAI" },
+    "logo": { "text": "ToLi" },
     "navigation": {
       "header": [
         { "label": "", "url": "/#" },
         { "label": "About", "url": "/#about" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "https://github.com/ASAPDevs/taskAI" }
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact"}
       ],
       "ctaButton": {
-        "openNewTab": false,
-        "label": "App store",
-        "url": "/"
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "", "url": "/privacy" },
+        { "label": "Copyright @ ToLi Development", "url": "#" },
         { "label": "", "url": "/imprint" }
       ]
     },
