@@ -3,27 +3,102 @@
     {
       "visible": true,
       "category": "",
-      "title": "To-do List",
-      "description": "Easy to use to-do list app to help you keep track of your daily tasks",
+      "title": "Kensa",
+      "description": "Kensa is an open-source product I co-created with a few other engineers who all share a passion for GraphQL development. It equips developers with the metrics and tools necessary to monitor and test their GraphQL requests, always ensuring the health and performance of their server.",
       "tags": [],
       "image": {
-        "src": "../../images/proTask2.png",
-        "alt": "Quick Setup"
+        "src": "../../images/kensa.png",
+        "alt": "Kensa"
       },
       "links": [
+        {
+          "type": "github",
+          "url": "https://kensats.link/"
+        },
+        {
+          "type": "external",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
       ]
     },
     {
       "visible": true,
       "category": "",
-      "title": "Daily Dashboard",
-      "description": "Daily dashboard informing your daily tasks completion progress when you first open the app",
+      "title": "tasksAI",
+      "description": "tasksAI is task-organization app that utilizes machine learning to help users boost productivity. Developed using React Native, Expo, NativeBase, GraphQL, Node.JS, Python, and Redux Toolkit.",
       "tags": [],
       "image": {
-        "src": "../../images/proTask3.png",
-        "alt": "Extendable Layout"
+        "src": "../../images/proTask2.png",
+        "alt": "tasksAI"
       },
       "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/ASAPDevs/tasksAI"
+        },
+        {
+          "type": "external",
+          "url": "https://apps.apple.com/app/id1663560874"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Meihua Stories",
+      "description": "I was given the opportunity to design and create this website for a Chinese short-story writer and poet. The site is developed with React, Gatsby, and Sass, to be fully responsive and highly performant.",
+      "tags": [],
+      "image": {
+        "src": "../../images/meihua.png",
+        "alt": "meihua"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/tommyli10/meihua-stories"
+        },
+        {
+          "type": "external",
+          "url": "https://meihuastories.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "MonoJStick",
+      "description": "After discovering code golf on Clash of Code, my friend Jasper sponsored me to make a web app for people to submit their favorite JavaScript one-liners. To make sure the code submitted are valid, I've written an algorithm to ensure the one-liners submitted are indeed one-liners and valid JavaScript functions.",
+      "tags": [],
+      "image": {
+        "src": "../../images/mono.png",
+        "alt": "MonoJStick"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/tommyli10/MonoJStich"
+        },
+        {
+          "type": "external",
+          "url": "https://monojstick.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Canterbury Gardens",
+      "description": "Canterbury Gardens is a brick-and-mortar store. I used WordPress and WooCommerce to rebuild the online eCommerce store and managed 10,000+ SKU. I've also used MailChimp to set up mailing list for advertising and marketing purposes.",
+      "tags": [],
+      "image": {
+        "src": "../../images/cant.png",
+        "alt": "Canterbury Gardens"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://yourchristmasstore.com/"
+        }
       ]
     }
   ],

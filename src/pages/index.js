@@ -3,11 +3,11 @@ import {
   AboutSection,
   ContactSection,
   HeroSection,
+  InterestsSection,
   Page,
   ProjectsSection,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
-import Contact from "./components/contact";
 
 export default function IndexPage() {
   return (
@@ -16,8 +16,9 @@ export default function IndexPage() {
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About" />
+        <InterestsSection sectionId="skills" heading="Skills" />
         <ProjectsSection sectionId="projects" heading="Projects" />
-        <ContactSection sectionId="github" heading="Contact" />
+        <ContactSection sectionId="contact" heading="Contact" />
       </Page>
     </>
   );

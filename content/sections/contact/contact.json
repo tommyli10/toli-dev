@@ -1,13 +1,13 @@
 {
-  "name": "Send me a messgae",
+  "name": "Tell me what's on your mind",
   "email": "tommylidev.com",
-  "description": "Need a website or web app? Send me an email or connect me on any of the following social media platforms.",
+  "description": "Need a website or want to work with me? Send me an email or connect with me on any of the following social media platforms.",
   "image": {
     "src": "../../images/favicon.png",
     "alt": "Gatsby Logo"
   },
   "socialProfiles": {
-    "from": ["Github", "LinkedIn", "Instagram"],
+    "from": ["Github", "LinkedIn", "Instagram", "Twitter"],
     "showIcons": true
   }
 }
