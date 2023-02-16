@@ -45,21 +45,21 @@
     {
       "visible": true,
       "category": "",
-      "title": "Meihua Stories",
-      "description": "I was given the opportunity to design and create this website for a Chinese short-story writer and poet. The site is developed with React, Gatsby, and Sass, to be fully responsive and highly performant.",
+      "title": "Atown Park",
+      "description": "A website built for an indoor and outdoor skatepark in Atascadero, CA. It can take reservations and post news about the park's operating hours and services offered.",
       "tags": [],
       "image": {
-        "src": "../../images/meihua.png",
-        "alt": "meihua"
+        "src": "../../images/atown.png",
+        "alt": "atown"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/tommyli10/meihua-stories"
+          "url": ""
         },
         {
           "type": "external",
-          "url": "https://meihuastories.netlify.app/"
+          "url": "https://atownpark.com/"
         }
       ]
     },
