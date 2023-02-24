@@ -54,10 +54,6 @@
       },
       "links": [
         {
-          "type": "github",
-          "url": ""
-        },
-        {
           "type": "external",
           "url": "https://atownpark.com/"
         }
@@ -66,21 +62,17 @@
     {
       "visible": true,
       "category": "",
-      "title": "MonoJStick",
-      "description": "After discovering code golf on Clash of Code, my friend Jasper sponsored me to make a web app for people to submit their favorite JavaScript one-liners. To make sure the code submitted are valid, I've written an algorithm to ensure the one-liners submitted are indeed one-liners and valid JavaScript functions.",
+      "title": "T.Design",
+      "description": "A simple and responsive website built as a homebase for an architecture firm.",
       "tags": [],
       "image": {
-        "src": "../../images/mono.png",
-        "alt": "MonoJStick"
+        "src": "../../images/tdesign.png",
+        "alt": "tdesign"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/tommyli10/MonoJStich"
-        },
-        {
           "type": "external",
-          "url": "https://monojstick.netlify.app/"
+          "url": "https://t-design.glitch.me"
         }
       ]
     },
