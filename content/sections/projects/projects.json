@@ -45,17 +45,21 @@
     {
       "visible": true,
       "category": "",
-      "title": "Atown Park",
-      "description": "A website built for an indoor and outdoor skatepark in Atascadero, CA. It can take reservations and post news about the park's operating hours and services offered.",
+      "title": "Spoon Meal Planner",
+      "description": "Need a meal plan? Spoon Meal Planner can help you out! Spoon Meal Planner uses the Spoonacular API to help you come up with a weekly meal plan based on your situation, as well as providing you with the nutritional facts for each meal.",
       "tags": [],
       "image": {
-        "src": "../../images/atown.png",
-        "alt": "atown"
+        "src": "../../images/meal-planner.png",
+        "alt": "meal-planner"
       },
       "links": [
         {
+          "type": "github",
+          "url": "https://github.com/tommyli10/Meal-Planner"
+        },
+        {
           "type": "external",
-          "url": "https://atownpark.com/"
+          "url": "https://spoonmealplanner.netlify.app/"
         }
       ]
     },
