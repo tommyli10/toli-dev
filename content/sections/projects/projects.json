@@ -45,6 +45,27 @@
     {
       "visible": true,
       "category": "",
+      "title": "Nenn Construction",
+      "description": "A website I designed and built for a client who owns a Los Angeles construction firm. I worked with the client from prototyping the wireframe all the way to publishing the site. Site is built from scratch with React, Gatsby, and SASS.",
+      "tags": [],
+      "image": {
+        "src": "../../images/nenn.png",
+        "alt": "nenn"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/tommyli10/nenn-construction"
+        },
+        {
+          "type": "external",
+          "url": "https://nennconstruction.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
       "title": "Spoon Meal Planner",
       "description": "Need a meal plan? Spoon Meal Planner can help you out! Spoon Meal Planner uses the Spoonacular API to help you come up with a weekly meal plan based on your situation, as well as providing you with the nutritional facts for each meal.",
       "tags": [],
