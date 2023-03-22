@@ -5,7 +5,7 @@
       "category": "",
       "title": "Kensa",
       "description": "Kensa is an open-source product I co-created with a few other engineers who all share a passion for GraphQL development. It equips developers with the metrics and tools necessary to monitor and test their GraphQL requests, always ensuring the health and performance of their server.",
-      "tags": [],
+      "tags": ["TypeScript", "React", "GraphQL", "PostgreSQL", "AWS"],
       "image": {
         "src": "../../images/kensa.png",
         "alt": "Kensa"
@@ -26,7 +26,7 @@
       "category": "",
       "title": "tasksAI",
       "description": "tasksAI is task-organization app that utilizes machine learning to help users boost productivity. Developed using React Native, Expo, NativeBase, GraphQL, Node.JS, Python, and Redux Toolkit.",
-      "tags": [],
+      "tags": ["React Native", "JavaScript", "Express.js", "Redux Toolkit", "Python", "Flask", "PostgreSQL"],
       "image": {
         "src": "../../images/proTask4.png",
         "alt": "tasksAI"
@@ -47,7 +47,7 @@
       "category": "",
       "title": "Nenn Construction",
       "description": "A website I designed and built for a client who owns a Los Angeles construction firm. I worked with the client from prototyping the wireframe all the way to publishing the site. Site is built from scratch with React, Gatsby, and SASS.",
-      "tags": [],
+      "tags": ["React", "SCSS", "Gatsby", "Figma", "Responsive"],
       "image": {
         "src": "../../images/nenn.png",
         "alt": "nenn"
@@ -68,7 +68,7 @@
       "category": "",
       "title": "Spoon Meal Planner",
       "description": "Need a meal plan? Spoon Meal Planner can help you out! Spoon Meal Planner uses the Spoonacular API to help you come up with a weekly meal plan based on your situation, as well as providing you with the nutritional facts for each meal.",
-      "tags": [],
+      "tags": ["HTML", "CSS", "JavaScript", "API"],
       "image": {
         "src": "../../images/meal-planner.png",
         "alt": "meal-planner"
@@ -89,7 +89,7 @@
       "category": "",
       "title": "T.Design",
       "description": "A simple and responsive website built as a homebase for an architecture firm.",
-      "tags": [],
+      "tags": ["HTML", "CSS", "Responsive", "Web Design"],
       "image": {
         "src": "../../images/tdesign.png",
         "alt": "tdesign"
@@ -106,7 +106,7 @@
       "category": "",
       "title": "Canterbury Gardens",
       "description": "Canterbury Gardens is a brick-and-mortar Christmas store. I rebuild their online eCommerce store and managed an inventory of 10,000+ SKU. I've also used MailChimp to set up mailing list for advertising and marketing purposes.",
-      "tags": [],
+      "tags": ["WordPress Development", "WooCommerce", "Web Design"],
       "image": {
         "src": "../../images/cant.png",
         "alt": "Canterbury Gardens"
