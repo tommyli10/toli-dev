@@ -24,27 +24,6 @@
     {
       "visible": true,
       "category": "",
-      "title": "tasksAI",
-      "description": "tasksAI is task-organization app that utilizes machine learning to help users boost productivity. Developed using React Native, Expo, NativeBase, GraphQL, Node.JS, Python, and Redux Toolkit.",
-      "tags": ["React Native", "JavaScript", "Express.js", "Redux Toolkit", "Python", "Flask", "PostgreSQL"],
-      "image": {
-        "src": "../../images/proTask4.png",
-        "alt": "tasksAI"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/ASAPDevs/tasksAI"
-        },
-        {
-          "type": "external",
-          "url": "https://apps.apple.com/app/id1663560874"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "",
       "title": "Nenn Construction",
       "description": "A website I designed and built for a client who owns a Los Angeles construction firm. I worked with the client from prototyping the wireframe all the way to publishing the site. Site is built from scratch with React, Gatsby, and SASS.",
       "tags": ["React", "SCSS", "Gatsby", "Figma", "Responsive"],
@@ -60,6 +39,27 @@
         {
           "type": "external",
           "url": "https://nennconstruction.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "tasksAI",
+      "description": "tasksAI is task-organization app that utilizes machine learning to help users boost productivity. Developed using React Native, Expo, NativeBase, GraphQL, Node.JS, Python, and Redux Toolkit.",
+      "tags": ["React Native", "JavaScript", "Express.js", "Redux Toolkit", "Python", "Flask", "PostgreSQL"],
+      "image": {
+        "src": "../../images/proTask4.png",
+        "alt": "tasksAI"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/ASAPDevs/tasksAI"
+        },
+        {
+          "type": "external",
+          "url": "https://apps.apple.com/app/id1663560874"
         }
       ]
     },
